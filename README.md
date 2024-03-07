@@ -1,4 +1,4 @@
-# Chainlink Data Streams Demo dApp
+# XFT Data Streams Demo dApp
 
 > **Note**
 >
