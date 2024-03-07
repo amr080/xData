@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <div className="mb-6 mt-12 space-y-6">
       <h2 className="hidden text-[40px] font-medium leading-[52px] tracking-[-0.8px] md:block">
-        Chainlink Data Streams Demo dApp
+        XFT Data Streams
       </h2>
       <p className="hidden font-[450] text-muted-foreground md:block">
         Low-latency, high frequency, gas efficient data feeds on Arbitrum Sepolia
